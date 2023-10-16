@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ea98b10.css",
+    "main.js": "/static/js/main.03132eae.js",
+    "static/media/logo.gif": "/static/media/logo.431377242a44850c470e.gif",
+    "static/media/sayehmovie.png": "/static/media/sayehmovie.eb9e5ccbb593fca7d9d2.png",
+    "index.html": "/index.html",
+    "main.9ea98b10.css.map": "/static/css/main.9ea98b10.css.map",
+    "main.03132eae.js.map": "/static/js/main.03132eae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ea98b10.css",
+    "static/js/main.03132eae.js"
+  ]
+}
